@@ -698,7 +698,7 @@ blockquote.quote {
   background-color: #9f1c03 !important; }
 
 .bg-secondary {
-  background-color: #95cbed25 !important; }
+  background-color: #da251c !important; }
 
 .bg-tertiary {
   background-color: rgb(8, 121, 191) !important; }
@@ -916,7 +916,7 @@ blockquote.quote {
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
   border-radius: 30px;
-  background-color: #f5dd07 !important;
+  background-color: #bab3d5 !important;
   box-shadow: 5px 0px 5px; 
 }
 .btn:hover,.btn-secondary:hover,.btn-primary:hover{
@@ -2566,7 +2566,7 @@ Back To Top Section
  */
 /* 4.1 - NAVBAR */
 .topbar {
-  background-color: #0879bf;
+  background-color: #29166f;
   color: #ffffff;
   font-family: "Open Sans", sans-serif; }
   .topbar .row {
@@ -2678,7 +2678,7 @@ Back To Top Section
     /* END STIKY */ }
     .header-1 .navbar-main .active > .nav-link {
       color: #ffffff;
-      background-color:#95cced; }
+      background-color:#da251c; }
     .header-1 .navbar-main .nav-link {
       color: #222222;
       padding: .5rem 1.5rem;
@@ -2690,7 +2690,7 @@ Back To Top Section
       -ms-border-radius: 30px;
       border-radius: 30px; }
       .header-1 .navbar-main .nav-link:hover {
-        color:#95cced;
+        color: #da251c;
         background-color: transparent; }
     .header-1 .navbar-main.stiky {
       height: auto;
@@ -3349,7 +3349,7 @@ Back To Top Section
  * -----------------------------------------------------------------------------
  */
 .footer {
-  background-color: rgb(8, 121, 191); 
+  background-color: rgba(41,22,111,255); 
   color: #ffffff;
   background-size: cover;
   background-position: center; }
