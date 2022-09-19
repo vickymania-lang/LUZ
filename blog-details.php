@@ -1,6 +1,6 @@
 <?php 	
 
-$url = 'https://eschool-ng.com/eschool-pro/v1/portal/fetchdata_ecopillar.php';
+$url = 'https://eschool-ng.com/eschool-pro/v1/portal/fetchdata_luz.php';
 $request_url = $url;
 
 $curl = curl_init($request_url);
@@ -33,7 +33,7 @@ $json = $response
 	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta description="">
-	<title>Ecopillars Schools </title>
+	<title>luz Schools </title>
 	<!-- ==============================================
 	Favicons
 	=============================================== -->
@@ -83,11 +83,11 @@ $json = $response
 					<div class="col-sm-8 col-md-6">
 						<div class="info">
 							<div class="info-item">
-								<i class="fa fa-phone"></i> 09068676161, 08066551023
+								<i class="fa fa-phone"></i> 08148671331
 							</div>
 							<div class="info-item">
 								<i class="fa fa-envelope-o"></i>
-								<a href="mailto:ecopillarsschools@gmail.com">ecopillarsschools@gmail.com</a>
+								<a href="mailto:luzschool15@gmail.com">luzschool15@gmail.com</a>
 							</div>
 						</div>
 					</div>
@@ -308,16 +308,16 @@ $json = $response
 
 
       <!-- FOOTER AREA -->
-      <div class="footer" data-background="./images/footer.jpg">
+	  <div class="footer" data-background="./images/footer.jpg">
 		<div class="content-wrap">
 			<div class="container">
 
 				<div class="row">
 					<div class="col-sm-12 col-md-6 col-lg-3">
 						<div class="footer-item">
-							<img src="./images/logo_png.png" alt="logo bottom" class="logo-bottom">
+							<img src="img/logo.jpeg" alt="logo bottom" class="logo-bottom">
 							<div class="spacer-30"></div>
-							<p>We are known for our quality and excellence; this is why we are ranked among the best primary school in Lagos. Our secondary school are rated as one of the best secondary school in Lagos. </p></p>
+							<p>Luz School radiates the modern day best standards in both learning and character of children, providing high academic, moral and social contents that makes her pupils and students stand out in any situation and place .
 
 						</div>
 					</div>
@@ -332,21 +332,22 @@ $json = $response
 									<div class="info-icon">
 										<span class="fa fa-map-marker"></span>
 									</div>
-									<div class="info-text">No 18 Anifa Street Ilufe, Ojo Alaba
-										Lagos State</div>
+									<div class="info-text">14 Ibeneme street by Angel Tobis 33 Nkwelle-Ezunaka
+										Anambra state
+										</div>
 								</li>
 								<li>
 									<div class="info-icon">
 										<span class="fa fa-phone"></span>
 									</div>
-									<div class="info-text">09068676161, 08066551023</div>
+									<div class="info-text">08148671331</div>
 								</li>
 								<li>
 									<div class="info-icon">
 										<span class="fa fa-envelope"></span>
 									</div>
-									<div class="info-text"><a href="mailto:ecopillarsschools@gmail.com"
-											title="">ecopillarsschools@gmail.com</a></div>
+									<div class="info-text"><a href="mailto:luzschool15@gmail.com"></a>
+										luzschool15@gmail.com</div>
 								</li>
 								<li>
 									<div class="info-icon">
@@ -385,7 +386,7 @@ $json = $response
 							<div class="footer-title">
 								Get in Touch
 							</div>
-							<p>Follow us on all our social media handles @ECOPILLARS SCHOOLS</p>
+							<p>Follow us on all our social media handles @Luz School</p>
 							<div class="sosmed-icon d-inline-flex">
 								<a href="#" class="fb"><i class="fa fa-facebook"></i></a>
 								<a href="#" class="tw"><i class="fa fa-twitter"></i></a>
@@ -402,7 +403,7 @@ $json = $response
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-12 col-md-12">
-						<p class="ftex copy" style="color: #42241c;">© 2022 ECOPILLARS SCHOOLS. All rights reserved. Designed by <a
+						<p class="ftex copy" style="color: #ffffff;">© 2022 Luz School . All rights reserved. Designed by <a
 								href="http://akisolutions.com.ng" target="_blank">AKI Solutions</a></p>
 					</div>
 				</div>

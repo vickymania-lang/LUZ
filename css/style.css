@@ -2342,7 +2342,7 @@ TABS
     color: #ffffff;
     border-color:rgb(201, 41, 94); }
 .rs-tabs .tab-content {
-  padding: 30px;
+  padding: 20px;
   background-color: #fafafa;
   border: 1px solid #e6e6e6; }
 
@@ -3524,6 +3524,10 @@ Back To Top Section
 .navbar-expand-lg .navbar-nav .nav-link {
     /* padding-right: 0.5rem; */
     padding-left: 0.5rem;
+    position: relative;
+    right: -130px;
+    float: right;
+    justify-content: right;
   } }
 
 

@@ -33,7 +33,7 @@ $json = $response
 	<!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta description="">
-	<title>Ecopillars Schools</title>
+	<title>Luz Schools</title>
 	<!-- ==============================================
 	Favicons
 	=============================================== -->
@@ -83,11 +83,11 @@ $json = $response
 					<div class="col-sm-8 col-md-6">
 						<div class="info">
 							<div class="info-item">
-								<i class="fa fa-phone"></i> 09068676161, 08066551023
+								<i class="fa fa-phone"></i> 08148671331
 							</div>
 							<div class="info-item">
 								<i class="fa fa-envelope-o"></i>
-								<a href="mailto:ecopillarsschools@gmail.com">ecopillarsschools@gmail.com</a>
+								<a href="mailto:luzschool15@gmail.com">luzschool15@gmail.com</a>
 							</div>
 						</div>
 					</div>
